@@ -1,58 +1,42 @@
-**# Hi, I'm Trupti Singh 👋
+# Hi, I'm Trupti Singh 👋
 
-### Aspiring Data Analyst | MCA Graduate
+Aspiring Data Analyst | MCA Graduate
 
-I'm interested in transforming raw data into meaningful insights that support business decisions. I have experience in data operations, MIS reporting, data management, and maintaining accurate records.
+I have experience in data operations, MIS reporting, data management, and reporting. I enjoy analyzing data and creating meaningful insights to support business decisions.
 
-### 🛠️ Skills
+## Skills
 
-* **SQL:** Queries, Joins, Subqueries, Aggregations
-* **Python:** Pandas, NumPy, Matplotlib
-* **Data Visualization:** Power BI, Tableau
-* **Excel:** Data Cleaning, Pivot Tables, Reporting
-* **Tools:** GitHub, Jupyter Notebook
+* SQL: Joins, Subqueries, Aggregations
+* Python: Pandas, NumPy, Matplotlib
+* Data Visualization: Power BI, Tableau
+* Excel: Data Cleaning, Pivot Tables, Reporting
+* Tools: GitHub, Jupyter Notebook
 
-### 📊 Projects
+## Projects
 
-* **AdventureWorks Sales Dashboard** — Sales analysis and interactive Power BI visualizations.
-* **Telco Customer Churn Analysis** — Data preprocessing and classification using Python.
-* **SQL Data Analysis** — Data analysis using queries, aggregations, and conditional logic.
+* AdventureWorks Sales Dashboard — Interactive sales analysis using Power BI.
+* Telco Customer Churn Analysis — Data preprocessing and classification using Python.
+* SQL Data Analysis — Data analysis using SQL queries and aggregations.
 
-### 💼 Experience
+## Experience
 
-**Operations Associate — Global BIFS Academy**
+Operations Associate — Global BIFS Academy
 
 * Maintained and validated data records.
-* Worked on MIS reports, attendance reports, and data cleaning.
-* Supported data management and reporting activities.
+* Prepared MIS and attendance reports.
+* Performed data cleaning and supported data management activities.
 
-### 🎓 Education
+## Education
 
 Master of Computer Applications (MCA)
 
-### 📜 Certifications
+## Certifications
 
-* Advanced Data Analyst — Intellipaat
+* Intellipaat — Add your exact official certification title.
 
-### 📫 Connect With Me
+## Connect With Me
 
-* LinkedIn: www.linkedin.com/in/trupti-singh-895a93308
+* LinkedIn: https://www.linkedin.com/in/trupti-singh-98539308
 * Email: truptisingh005@gmail.com
 
-I'm continuously learning and building projects to strengthen my data analytics skills.
-**
-
-<!--
-**truptisingh-2002/truptisingh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am continuously improving my data analytics skills and building projects to strengthen my portfolio.
