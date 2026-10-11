@@ -32,7 +32,7 @@ Master of Computer Applications (MCA)
 
 ## Certifications
 
-* Intellipaat — Add your exact official certification title.
+* Intellipaat — Advanced Certification in Data Analytics
 
 ## Connect With Me
 
