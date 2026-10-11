@@ -32,12 +32,12 @@ Master of Computer Applications (MCA)
 
 ### 📜 Certifications
 
-* Advanced Data Analyst — Intellipaat *(add the exact official certificate title)*
+* Advanced Data Analyst — Intellipaat
 
 ### 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile URL
-* Email: Add your professional email address
+* LinkedIn: www.linkedin.com/in/trupti-singh-895a93308
+* Email: truptisingh005@gmail.com
 
 I'm continuously learning and building projects to strengthen my data analytics skills.
 **
